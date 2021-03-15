@@ -1,0 +1,26 @@
+﻿Qual framework de teste usar?
+================================
+
+- Pra que eles servem?
+  - estrutura
+  - não se engane com recursos
+
+- MsTest
+  - o mais simples
+  - vem junto com o .Net
+  - dificilmente vai ser descontinuado
+  - adoção baixa na comunidade
+
+- NUnit
+  - o mais antigo
+  - port do Java
+  - provavelmente é o mais usado
+  - não é muito intuitivo
+
+- XUnit
+  - tem o melhor design
+  - "evolução" do NUnit
+  - está em alta na comunidade, até a Microsoft usa
+  - é mais complexo que os outros
+
+- Exemplos

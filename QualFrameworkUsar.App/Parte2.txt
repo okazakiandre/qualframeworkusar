@@ -1,0 +1,12 @@
+﻿Qual framework de teste usar?
+================================
+
+- Pra que eles servem?
+  - estrutura
+  - não se engane com recursos
+
+- MsTest
+  - o mais simples
+  - vem junto com o .Net
+  - dificilmente vai ser descontinuado
+  - adoção baixa na comunidade
